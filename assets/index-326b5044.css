@@ -1,1 +1,0 @@
-.dogGallery{list-style:none;display:flex;flex-wrap:wrap;justify-content:center;gap:10px}.dogGallery>li{flex-basis:350px}.dogGallery li img{object-fit:cover;max-width:100%;height:auto;vertical-align:middle;border-radius:5px}
