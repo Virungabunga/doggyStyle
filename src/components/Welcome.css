@@ -1,0 +1,35 @@
+
+#welcomediv {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+
+  #welcomeh3 {
+    font-size: 36px;
+    margin-top: 0;
+  }
+  
+
+  #welcomeimg {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+  }
+  
+
+  #welcomep {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #f28d00;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+  }
+  
+
